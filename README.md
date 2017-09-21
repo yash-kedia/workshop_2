@@ -1,6 +1,6 @@
 # workshop_2
 step 1 .   
-Fork the website in your pc .   
+Fork the repo in your pc .   
 step 2 .   
 clone your repo in your pc .   
 step 3 .   
