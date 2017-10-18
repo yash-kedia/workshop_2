@@ -1,0 +1,4 @@
+//I really wanted to do a simple program the hard way, hence BrainFuck.
+//choose single digit numbers such that the sum is <=9.
+
+,>,<[>+<-]>------------------------------------------------------------------------------------------------.
